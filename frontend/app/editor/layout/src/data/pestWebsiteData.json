@@ -1,0 +1,556 @@
+{
+  "common": {
+    "siteName": "PestControl",
+    "phone": "+1 00000 00000",
+    "email": "info@xyz.com",
+    "address": "742 Evergreen Terrace, Springfield, OR 97477, USA",
+    "socialLinks": {
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com",
+      "whatsapp": "https://whatsapp.com"
+    }
+  },
+  "categories": {
+    "PestControl": {
+      "templateComponents": {
+        "template-1": {
+          "shared": {
+            "Topbar": "PestTopbar1",
+            "Header": "PestHeader1",
+            "Footer": "PestFooter1"
+          },
+          "pages": {
+            "home": {
+              "components": [
+                { "key": "Banner", "component": "PestBanner1" },
+                { "key": "About", "component": "PestAbout1" },
+                { "key": "Services", "component": "PestServices1" },
+                { "key": "WhyChooseUs", "component": "PestWhyChooseUs1" },
+                { "key": "Gallery", "component": "PestGallery1" },
+                { "key": "Testimonials", "component": "PestTestimonials1" },
+                { "key": "Blog", "component": "PestBlog1" },
+                { "key": "Quote", "component": "PestQuote1" },
+                { "key": "FAQ", "component": "PestFAQ1" },
+                { "key": "Contact", "component": "PestContact1" }
+              ]
+            },
+            "about": {
+              "components": [
+                { "key": "About", "component": "PestAbout1" },
+                { "key": "WhyChooseUs", "component": "PestWhyChooseUs1" },
+                { "key": "Testimonials", "component": "PestTestimonials1" }
+              ]
+            },
+            "services": {
+              "components": [
+                { "key": "Services", "component": "PestServices1" },
+                { "key": "WhyChooseUs", "component": "PestWhyChooseUs1" },
+                { "key": "Quote", "component": "PestQuote1" }
+              ]
+            },
+            "serviceDetail": {
+              "components": [
+                { "key": "ServiceDetailPage", "component": "PestServiceDetail1" },
+                { "key": "Quote", "component": "PestQuote1" },
+                { "key": "FAQ", "component": "PestFAQ1" }
+              ]
+            },
+            "blog": {
+              "components": [
+                { "key": "Blog", "component": "PestBlog1" }
+              ]
+            },
+            "blogDetail": {
+              "components": [
+                { "key": "BlogDetailPage", "component": "PestBlogDetail1" }
+              ]
+            },
+            "gallery": {
+              "components": [
+                { "key": "Gallery", "component": "PestGallery1" }
+              ]
+            },
+            "contact": {
+              "components": [
+                { "key": "Contact", "component": "PestContact1" },
+                { "key": "FAQ", "component": "PestFAQ1" }
+              ]
+            },
+            "quote": {
+              "components": [
+                { "key": "Quote", "component": "PestQuote1" },
+                { "key": "FAQ", "component": "PestFAQ1" }
+              ]
+            }
+          }
+        }
+      },
+      "sections": {
+        "Topbar": {
+          "variants": {
+            "PestTopbar1": {
+              "address": "742 Evergreen Terrace, Springfield, OR 97477, USA",
+              "phone": "+1 00000 00000",
+              "email": "info@xyz.com",
+              "quoteButtonText": "GET A QUOTE",
+              "quoteButtonLink": "/quote"
+            }
+          }
+        },
+        "Header": {
+          "variants": {
+            "PestHeader1": {
+              "logo": "/categories/petcare/logo.jpeg",
+              "navLinks": [
+                { "title": "HOME", "path": "/" },
+                { "title": "ABOUT US", "path": "/about" },
+                {
+                  "title": "SERVICES",
+                  "path": "/services",
+                  "children": [
+                    { "title": "Ant Control", "path": "/services/ant-control" },
+                    { "title": "Bed Bug Control", "path": "/services/bed-bug-control" },
+                    { "title": "Cockroach Control", "path": "/services/cockroach-control" },
+                    { "title": "Mosquito Control", "path": "/services/mosquito-control" },
+                    { "title": "Rodent Control", "path": "/services/rodent-control" },
+                    { "title": "Termite Control", "path": "/services/termite-control" }
+                  ]
+                },
+                { "title": "BLOG", "path": "/blog" },
+                { "title": "GALLERY", "path": "/gallery" },
+                { "title": "CONTACT US", "path": "/contact" }
+              ],
+              "ctaButton": {
+                "text": "GET A QUOTE",
+                "path": "/quote"
+              }
+            }
+          }
+        },
+        "Banner": {
+          "variants": {
+            "PestBanner1": {
+              "badge": "THE PEST CONTROL EXPERTS",
+              "titleLine1": "Safe & Effective",
+              "titleHighlight": "Pest Control",
+              "titleLine2": "Services",
+              "description": "Keep your home and workplace free from unwanted pests with our reliable and professional pest control solutions.",
+              "backgroundImage": "/categories/petcare/pestcontrol.jpeg",
+              "buttons": [
+                { "label": "GET A QUOTE", "href": "/quote" }
+              ]
+            }
+          }
+        },
+       "About": {
+  "variants": {
+    "PestAbout1": {
+      "badge": "ABOUT US",
+      "title": "Your Trusted Partner in",
+      "titleHighlight": "Pest Control",
+      "subtitle": "We are a professional pest control company committed to creating healthier and safer spaces for your home and business.",
+      "description": "With years of experience in the industry, we provide reliable and effective pest control solutions for residential, commercial, and industrial properties. Our team uses safe, eco-friendly methods and advanced equipment to ensure long-lasting protection from unwanted pests.",
+      "highlights": [
+        "Experienced and trained pest control professionals.",
+        "Safe, effective and eco-friendly pest control solutions.",
+        "Customized services for homes, offices, and industries."
+      ],
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1200&q=80"
+    }
+  }
+},
+        "Services": {
+          "variants": {
+            "PestServices1": {
+              "badge": "OUR SERVICES",
+              "title": "Comprehensive Pest Control Services",
+              "description": "Customized and non-toxic treatments to eliminate pests safely from residences and workplaces.",
+              "items": [
+                {
+                  "slug": "ant-control",
+                  "name": "Ant Control",
+                  "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80",
+                  "heading": "Ant Control Solutions",
+                  "desc1": "Ant colonies can quickly overrun kitchen pantries and wall voids.",
+                  "desc2": "We use targeted baiting gel formulas that destroy colonies from the queen down.",
+                  "keyBenefits": [
+                    "Targeted non-repellent barrier gels",
+                    "Complete nest and queen elimination",
+                    "Long-term perimeter protection",
+                    "Pet and child safe treatment"
+                  ]
+                },
+                {
+                  "slug": "bed-bug-control",
+                  "name": "Bed Bug Control",
+                  "image": "/categories/petcare/bedbug.webp",
+                  "heading": "Bed Bug Eradication",
+                  "desc1": "Bed bugs hide deep in mattresses, headboards, and structural crevices.",
+                  "desc2": "Our multi-stage thermal and targeted eco-treatment eliminates adult bugs and eggs.",
+                  "keyBenefits": [
+                    "Complete elimination of bed bugs and eggs",
+                    "Deep heat and chemical eco-treatments",
+                    "Safe for mattresses and furniture",
+                    "Guaranteed sleepless night relief"
+                  ]
+                },
+                {
+                  "slug": "cockroach-control",
+                  "name": "Cockroach Control",
+                  "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+                  "heading": "Cockroach Sanitation",
+                  "desc1": "German and American cockroaches carry harmful bacteria into living quarters.",
+                  "desc2": "We use odorless insect growth regulators to interrupt breeding cycles.",
+                  "keyBenefits": [
+                    "Advanced gel baiting technology",
+                    "Breaks reproductive life cycle",
+                    "Kitchen and drain sanitation",
+                    "Odorless and non-staining formulation"
+                  ]
+                },
+                {
+                  "slug": "mosquito-control",
+                  "name": "Mosquito Control",
+                  "image": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&w=800&q=80",
+                  "heading": "Mosquito Reduction",
+                  "desc1": "Standing outdoor water provides breeding grounds for disease-spreading mosquitoes.",
+                  "desc2": "Our misting barriers suppress adult populations and larvicides eliminate eggs.",
+                  "keyBenefits": [
+                    "Backyard and lawn barrier misting",
+                    "Larvicide standing water treatments",
+                    "Dengue and malaria defense",
+                    "Eco-friendly botanical options"
+                  ]
+                },
+                {
+                  "slug": "rodent-control",
+                  "name": "Rodent Control",
+                  "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80",
+                  "heading": "Rodent Exclusion",
+                  "desc1": "Rats and mice chew structural wiring and contaminate pantry provisions.",
+                  "desc2": "We combine tamper-proof bait stations with physical entry point sealing.",
+                  "keyBenefits": [
+                    "Tamper-proof bait station placement",
+                    "Exclusion channel sealing",
+                    "Sanitary dead rodent disposal",
+                    "Ongoing prevention audit"
+                  ]
+                },
+                {
+                  "slug": "termite-control",
+                  "name": "Termite Control",
+                  "image": "https://images.unsplash.com/photo-1615840287214-7ff58936c4cf?auto=format&fit=crop&w=800&q=80",
+                  "heading": "Termite Defense",
+                  "desc1": "Subterranean termites inflict severe structural damage undetected inside timber.",
+                  "desc2": "We apply pressure injection perimeter barriers with comprehensive warranties.",
+                  "keyBenefits": [
+                    "Pre and post construction treatments",
+                    "Drill and pressure barrier injection",
+                    "Multi-year warranty coverage",
+                    "Periodic termite health checks"
+                  ]
+                }
+              ]
+            }
+          }
+        },
+       "WhyChooseUs": {
+          "variants": {
+            "PestWhyChooseUs1": {
+              "badge": "WHY CHOOSE US",
+              "title": "Why Choose",
+              "titleHighlight": "PestControl",
+              "description": "We deliver safe, effective and eco-friendly pest control solutions for homes, offices and commercial spaces. Our focus is on quality service, customer satisfaction and a healthier environment for you.",
+              "image": "https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?auto=format&fit=crop&w=1000&q=80](https://images.unsplash.com/photo-1628177142898-93e36e4e3a50?auto=format&fit=crop&w=1000&q=80)",
+              "features": [
+                {
+                  "id": 1,
+                  "title": "Safe & Effective Solutions",
+                  "description": "We use safe and tested methods to ensure long-lasting protection.",
+                  "icon": "shield"
+                },
+                {
+                  "id": 2,
+                  "title": "Experienced Professionals",
+                  "description": "Our trained team delivers reliable and high-quality pest control services.",
+                  "icon": "users"
+                },
+                {
+                  "id": 3,
+                  "title": "Eco-Friendly Methods",
+                  "description": "We care for your health and the environment with green solutions.",
+                  "icon": "leaf"
+                },
+                {
+                  "id": 4,
+                  "title": "Affordable & Transparent Pricing",
+                  "description": "High-quality services at competitive prices with no hidden costs.",
+                  "icon": "dollar"
+                }
+              ]
+            }
+          }
+        },
+        "Testimonials": {
+          "variants": {
+            "PestTestimonials1": {
+              "badge": "TESTIMONIALS",
+              "title": "What Our Clients Say",
+              "items": [
+                {
+                  "id": 1,
+                  "name": "Rohit Sharma",
+                  "role": "Home Owner",
+                  "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=200&q=80",
+                  "review": "The pest control service was excellent! Theee team was professional, on-time, and very thorough. Our home is now completely pest-free, and we couldn't be happier with the results. Highly recommended!",
+                  "rating": 5
+                },
+                {
+                  "id": 2,
+                  "name": "Priya Mehta",
+                  "role": "Business Owner",
+                  "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&q=80",
+                  "review": "We have been using their pest control services for our office, and the experience has been great. The team is knowledgeable, uses safe methods, and ensures long-lasting protection. Our workspace is now much cleaner and safer.",
+                  "rating": 5
+                }
+              ]
+            }
+          }
+        },
+        "Gallery": {
+          "variants": {
+            "PestGallery1": {
+              "badge": "GALLERY",
+              "title": "Our Work in Action",
+              "description": "Explore photos of our professional team protecting homes, offices, and commercial sites.",
+              "categories": [
+                { "label": "All Work", "value": "all" },
+                { "label": "Residential", "value": "residential" },
+                { "label": "Commercial", "value": "commercial" },
+                { "label": "Termite Defense", "value": "termite" },
+                { "label": "Outdoor & Yard", "value": "outdoor" }
+              ],
+              "items": [
+                {
+                  "id": 1,
+                  "category": "residential",
+                  "title": "Kitchen Pest Sanitation",
+                  "description": "Thorough cockroach gel treatment and preventive perimeter barrier.",
+                  "image": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&w=1200&q=80"
+                },
+                {
+                  "id": 2,
+                  "category": "outdoor",
+                  "title": "Garden & Lawn Misting",
+                  "description": "Eco-friendly outdoor mosquito fogging and larvae control.",
+                  "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=1200&q=80"
+                },
+                {
+                  "id": 3,
+                  "category": "commercial",
+                  "title": "Corporate Warehouse Treatment",
+                  "description": "Rodent bait stations and full interior safety inspection.",
+                  "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80"
+                },
+                {
+                  "id": 4,
+                  "category": "termite",
+                  "title": "Foundation Drill Treatment",
+                  "description": "Subterranean termite pressure injection barrier warranty.",
+                  "image": "https://images.unsplash.com/photo-1615840287214-7ff58936c4cf?auto=format&fit=crop&w=1200&q=80"
+                },
+                {
+                  "id": 5,
+                  "category": "residential",
+                  "title": "Bed Bug Deep Steam Eradication",
+                  "description": "High-temperature mattress seam treatment eliminating eggs completely.",
+                  "image": "/categories/petcare/bedbug.webp"
+                },
+                {
+                  "id": 6,
+                  "category": "commercial",
+                  "title": "Restaurant Pantry Protection",
+                  "description": "Non-toxic food-safe pest deterrence in compliance with health audits.",
+                  "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=1200&q=80"
+                }
+              ]
+            }
+          }
+        },
+        "Blog": {
+  "variants": {
+    "PestBlog1": {
+      "badge": "OUR BLOG",
+      "title": "Latest Insights & Pest Defense Tips",
+      "description": "Expert advice, seasonal pest alerts, and DIY prevention guides straight from our licensed pest managers.",
+      "posts": [
+        {
+          "id": 1,
+          "slug": "early-signs-of-termites",
+          "title": "5 Critical Warning Signs of Termites in Your Home",
+          "summary": "Termites can cause structural damage long before they are spotted. Learn the early indicators like hollow wood and mud tubes.",
+          "date": "March 20, 2026",
+          "author": "Dr. Sarah Adams",
+          "image": "m2.jpg"
+        },
+        {
+          "id": 2,
+          "slug": "eco-friendly-pest-control-benefits",
+          "title": "Why Eco-Friendly Pest Control is Safer for Pets & Children",
+          "summary": "Explore how modern organic and botanical formulations deliver maximum extermination without toxic airborne residues.",
+          "date": "April 02, 2026",
+          "author": "Michael Jenkins",
+          "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": 3,
+          "slug": "preventing-monsoon-pest-surge",
+          "title": "How to Prepare Your Property Against Seasonal Pest Infestation",
+          "summary": "Step-by-step guidance on sealing entry voids and checking drainage to prevent roaches and rodents before rains begin.",
+          "date": "May 15, 2026",
+          "author": "David Vance",
+          "image": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": 4,
+          "slug": "protect-family-mosquito-diseases",
+          "title": "How to Protect Your Family from Mosquito-Borne Diseases",
+          "summary": "Prevent stagnant water breeding grounds and safeguard your living area from mosquito infestations.",
+          "date": "June 10, 2026",
+          "author": "Dr. Sarah Adams",
+          "image": "m1.jpg"
+        },
+        {
+          "id": 5,
+          "slug": "rodent-control-tips-safer-home",
+          "title": "Effective Rodent Control Tips for a Cleaner and Safer Home",
+          "summary": "Practical exclusion channels and sanitization tips to keep mice and rats completely away.",
+          "date": "June 24, 2026",
+          "author": "Michael Jenkins",
+          "image": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80"
+        },
+        {
+          "id": 6,
+          "slug": "understanding-termite-damage-prevention",
+          "title": "Understanding Termite Damage and How to Prevent It",
+          "summary": "A deep dive into subterranean wood damage and the long-term chemical barriers that prevent it.",
+          "date": "July 08, 2026",
+          "author": "David Vance",
+          "image": "https://images.unsplash.com/photo-1615840287214-7ff58936c4cf?auto=format&fit=crop&w=800&q=80"
+        }
+      ]
+    }
+  }
+},
+        "Quote": {
+          "variants": {
+            "PestQuote1": {
+              "badge": "GET A QUOTE",
+              "title": "Reliable Pest Control Solutions for You",
+              "description": "Share your requirements with us and get a customized pest control treatment plan tailored to your property. Our team will get back to you with the best proposal.",
+              "features": [
+                {
+                  "title": "Customized Plans",
+                  "description": "Solutions designed specifically for your space and severity level."
+                },
+                {
+                  "title": "Quick Response",
+                  "description": "We will review your inspection request within 24 hours."
+                },
+                {
+                  "title": "Expert Team",
+                  "description": "Certified technicians using safe, eco-approved methodologies."
+                }
+              ],
+              "callPrompt": "Have any questions?",
+              "callSubprompt": "Call us now for immediate assistance."
+            }
+          }
+        },
+        "FAQ": {
+          "variants": {
+            "PestFAQ1": {
+              "badge": "FAQ",
+              "title": "Frequently Asked Questions About Pest Control Services",
+              "description": "Find answers to common questions about our pest control services, process, safety, and more.",
+              "sidebarImage": "https://images.unsplash.com/photo-1584467735871-8e85353a8413?auto=format&fit=crop&w=800&q=80",
+              "supportCard": {
+                "title": "Still have any question?",
+                "subtitle": "Call or email us",
+                "phone": "+1 00000 00000",
+                "email": "info@xyz.com"
+              },
+              "items": [
+                {
+                  "question": "What types of pests do you control?",
+                  "answer": "We provide expert pest control services for ants, cockroaches, termites, rodents, bed bugs, mosquitoes, flies, and other common household and commercial pests."
+                },
+                {
+                  "question": "How do I know if I need pest control?",
+                  "answer": "Common warning signs include pest droppings, gnaw marks on wood or wires, unusual pet behavior, unexplained bites or rashes, and daytime sightings."
+                },
+                {
+                  "question": "Are your pest control treatments safe?",
+                  "answer": "Yes, all of our products are eco-conscious, odorless, and government-approved, ensuring absolute safety for children, seniors, and pets."
+                },
+                {
+                  "question": "How long does a pest control treatment take?",
+                  "answer": "A standard residential inspection and treatment typically requires 45 to 90 minutes depending on square footage and severity."
+                },
+                {
+                  "question": "How often should I schedule pest control?",
+                  "answer": "For typical homes, preventative seasonal treatments every 3 to 4 months are recommended. Commercial spaces generally require monthly visits."
+                },
+                {
+                  "question": "Do you provide services for commercial properties?",
+                  "answer": "Yes, we deliver customized commercial pest management programs for office complexes, retail stores, food handling facilities, and healthcare centers."
+                },
+                {
+                  "question": "Will the pests come back after treatment?",
+                  "answer": "Our treatments carry a service guarantee. If persistent pests return within the warranty coverage period, we re-treat free of charge."
+                }
+              ]
+            }
+          }
+        },
+        "Contact": {
+          "variants": {
+            "PestContact1": {
+              "badge": "CONTACT US",
+              "title": "Let’s Connect for a Pest-Free Tomorrow",
+              "description": "Have a question, need a quick quote, or want to schedule an inspection? Our team is here to help.",
+              "office": {
+                "title": "Our Office",
+                "address": "742 Evergreen Terrace, Springfield, OR 97477, USA"
+              },
+              "call": {
+                "title": "Call Us",
+                "phone": "+1 00000 00000"
+              },
+              "email": {
+                "title": "Email Us",
+                "email": "info@xyz.com",
+                "note": "We respond within 24 hours"
+              },
+              "mapLocation": {
+                "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d183617.47285641776!2d-123.15572522718712!3d44.05206910609386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c11e00662d5bb3%3A0xb36a0d5c0b1e4a6a!2sSpringfield%2C%20OR!5e0!3m2!1sen!2sus!4v1700000000000!5m2!1sen!2sus",
+                "label": "Our Office Location"
+              }
+            }
+          }
+        },
+        "Footer": {
+          "variants": {
+            "PestFooter1": {
+              "about": "We provide safe, effective and eco-friendly pest control solutions for homes, offices and commercial spaces. Our goal is to create a healthier and pest-free environment for you.",
+              "location": "742 Evergreen Terrace, Springfield, OR 97477, USA",
+              "phone": "+1 00000 00000",
+              "email": "info@xyz.com",
+              "copyright": "© 2026 PestControl. All Rights Reserved. Powered By Lestow."
+            }
+          }
+        }
+      }
+    }
+  }
+}

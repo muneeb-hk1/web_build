@@ -1,0 +1,10 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+    <rect width="100%" height="100%" fill="#e2e8f0"/>
+    <rect width="100%" height="100%" fill="url(#pattern)" opacity="0.5"/>
+    <defs>
+        <pattern id="pattern" width="40" height="40" patternUnits="userSpaceOnUse">
+            <path d="M0 40L40 0H20L0 20M40 40V20L20 40" stroke="#94a3b8" stroke-width="2" fill="none"/>
+        </pattern>
+    </defs>
+    <text x="50%" y="50%" font-family="sans-serif" font-weight="bold" font-size="48" fill="#475569" text-anchor="middle" dy=".3em">News Thumbnail 2</text>
+</svg>

@@ -1,0 +1,1568 @@
+{
+  "hero": {
+    "subtitle": "Reliable house cleaning professionals",
+    "titleLine1": "Consider it",
+    "titleHighlight": "Done",
+    "description": "We understand that maintaining a spotless home can be a challenge in the hustle and bustle of daily life. That's why we've made it our specialty to know the ins and outs of house cleaning, so you don't have to.",
+    "buttonText": "Book Now",
+    "buttonLink": "/contact",
+    "backgroundImage": "/banner/herobanner.png"
+  },
+  "services": {
+    "subtitle": "Our Services",
+    "title": "Commercial Disinfection Services",
+    "items": [
+      {
+        "id": 1,
+        "title": "Floor Cleaning",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod sis.",
+        "image": "/services/service-1.png",
+        "iconName": "PaintRoller"
+      },
+      {
+        "id": 2,
+        "title": "Window Cleaning",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod sis.",
+        "image": "/services/service-2.png",
+        "iconName": "AppWindow"
+      },
+      {
+        "id": 3,
+        "title": "Domestic Sanitizing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod sis.",
+        "image": "/services/service-3.png",
+        "iconName": "House"
+      },
+      {
+        "id": 4,
+        "title": "Corona Control",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod sis.",
+        "image": "/services/service-4.png",
+        "iconName": "Biohazard"
+      },
+      {
+        "id": 5,
+        "title": "Floor Cleaning",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod sis.",
+        "image": "/services/service-1.png",
+        "iconName": "PaintRoller"
+      },
+      {
+        "id": 6,
+        "title": "Window Cleaning",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod sis.",
+        "image": "/services/service-2.png",
+        "iconName": "AppWindow"
+      },
+      {
+        "id": 7,
+        "title": "Domestic Sanitizing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod sis.",
+        "image": "/services/service-3.png",
+        "iconName": "House"
+      },
+      {
+        "id": 8,
+        "title": "Corona Control",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod sis.",
+        "image": "/services/service-4.png",
+        "iconName": "Biohazard"
+      }
+    ]
+  },
+  "about": {
+    "subtitle": "Our Features",
+    "titleLine1": "We Offer A Wide Range Of",
+    "titleLine2": "Disinfection & Cleaning Services",
+    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis suspendisse ultrice.",
+    "description2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis suspendisse ultrices gravida. commodo viverra maecenas accumsan lacus vel facilisis.",
+    "features": [
+      "Deep Cleaning Service",
+      "Fully Equipment",
+      "Disinfecting Service",
+      "Professional Sanitizing"
+    ],
+    "experienceYears": 30,
+    "experienceText": "Years",
+    "image": "/banner/aboutimg.png",
+    "buttonText": "Read More",
+    "buttonLink": "/about"
+  },
+  "achievements": {
+    "items": [
+      {
+        "iconName": "PartyPopper",
+        "value": "20",
+        "title": "Years",
+        "description": "We have more than 20+ years working experience."
+      },
+      {
+        "iconName": "Users",
+        "value": "160",
+        "title": "Employee",
+        "description": "We have more than 160+ employees working near you."
+      },
+      {
+        "iconName": "Award",
+        "value": "20",
+        "title": "Awards",
+        "description": "We have done many projects & get awards 20+ times."
+      }
+    ]
+  },
+  "awards": {
+    "subtitle": "Awards & Certifications",
+    "titleLine1": "Awards &",
+    "titleHighlight": "Certifications",
+    "description": "Recognized for our commitment to excellence, quality service and customer satisfaction.",
+    "items": [
+      {
+        "title": "Quality Service Award",
+        "description": "Honored for delivering outstanding cleaning services with excellence.",
+        "iconType": "award"
+      },
+      {
+        "title": "Eco Friendly Certified",
+        "description": "Certified for using eco-friendly products and sustainable cleaning practices.",
+        "iconType": "shield"
+      },
+      {
+        "title": "Trusted Service Provider",
+        "description": "Recognized for reliability, transparency and dedication to our clients.",
+        "iconType": "shield-check"
+      },
+      {
+        "title": "Safety First Certified",
+        "description": "Certified for maintaining high safety standards for our team and your property.",
+        "iconType": "file-badge"
+      }
+    ]
+  },
+  "blogSidebar": {
+    "searchPlaceholder": "Search",
+    "recentNewsTitle": "Recent News",
+    "recentNews": [
+      {
+        "title": "Businesses Are Thriving Societies Are Not.",
+        "date": "January 15, 2021",
+        "img": "/news/1.jpg"
+      },
+      {
+        "title": "The Importance of Instagram Metrics and",
+        "date": "January 15, 2021",
+        "img": "/news/2.jpg"
+      },
+      {
+        "title": "TikTok Influencer Marketing: How to Work",
+        "date": "January 15, 2021",
+        "img": "/news/3.jpg"
+      }
+    ]
+  },
+  "calculateCTA": {
+    "subtitle": "Your Cleaning Cost",
+    "title": "Calculate",
+    "emailPlaceholder": "Your Email",
+    "selectPlaceholder": "Square Meters",
+    "options": [
+      {
+        "value": "50",
+        "label": "50 - 100 sq m"
+      },
+      {
+        "value": "100",
+        "label": "100 - 200 sq m"
+      },
+      {
+        "value": "200",
+        "label": "200+ sq m"
+      }
+    ],
+    "buttonText": "Calculate",
+    "buttonLink": "/contact"
+  },
+  "faq": {
+    "items": [
+      {
+        "question": "Should you replace sponges or disinfect them?",
+        "answer": "Edite per sociosqu felis quam ridiculus laoreet tempus, eleifend faucibus commodo. Laoreet mauris congue sodales interdum lobortis proin laoreet quis arcu nostra et nam primis dolor sagittis duis laoreet, ultrices habitasse diam quisque in auctor porta metus viverra curae maecenas iaculis tempo pulvinar vitae dictum lorem ipsum orci."
+      },
+      {
+        "question": "How do you get stains off the walls without chipping the paint?",
+        "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "question": "Why doesn't my vacuum cleaner do a good job?",
+        "answer": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "question": "Is there a way to clean a stopped drain that's less gross?",
+        "answer": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+      },
+      {
+        "question": "How can I clean this neglected area so it looks brand new?",
+        "answer": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+      },
+      {
+        "question": "What do you do you have to move heavy furniture to vacuum?",
+        "answer": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem."
+      },
+      {
+        "question": "How do you treat different materials like marble or granite?",
+        "answer": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+      },
+      {
+        "question": "Why do I need reports from all 3 credit bureaus?",
+        "answer": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+      },
+      {
+        "question": "Have you ever seen a co-worker What did you do?",
+        "answer": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
+      },
+      {
+        "question": "How much you need to clean a working space of 10 offices?",
+        "answer": "Similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio."
+      }
+    ]
+  },
+  "feedback": {
+    "subtitle": "Customer Feedback",
+    "titleLine1": "Quality Cleaning Making",
+    "titleLine2": "you Much Happy",
+    "feedbacks": [
+      {
+        "name": "Petar Mansion",
+        "role": "Senior Designer",
+        "image": "https://i.pravatar.cc/150?img=11",
+        "content": "Hymenaeos rhoncus proin aliquam justo sum mauris rutrum nullam semper purus rutru non sociis libero varius cumer to duine felis enisa porta ridiculus nisl acequis."
+      },
+      {
+        "name": "Jhon Doe",
+        "role": "Senior Developer",
+        "image": "https://i.pravatar.cc/150?img=68",
+        "content": "Hymenaeos rhoncus proin aliquam justo sum mauris rutrum nullam semper purus rutru non sociis libero varius cumer to duine felis enisa porta ridiculus nisl acequis."
+      },
+      {
+        "name": "Shane Watson",
+        "role": "Senior Designer",
+        "image": "https://i.pravatar.cc/150?img=44",
+        "content": "Hymenaeos rhoncus proin aliquam justo sum mauris rutrum nullam semper purus rutru non sociis libero varius cumer to duine felis enisa porta ridiculus nisl acequis."
+      },
+      {
+        "name": "Sarah Smith",
+        "role": "Project Manager",
+        "image": "https://i.pravatar.cc/150?img=5",
+        "content": "Hymenaeos rhoncus proin aliquam justo sum mauris rutrum nullam semper purus rutru non sociis libero varius cumer to duine felis enisa porta ridiculus nisl acequis."
+      }
+    ]
+  },
+  "career": {
+    "subtitle": "JOIN OUR TEAM",
+    "titleLine1": "Build Your Career with ",
+    "titleHighlight": "CleanPro",
+    "description": "We are always looking for dedicated, passionate, and hardworking individuals to join our growing team and help us create cleaner, healthier spaces.",
+    "benefits": [
+      {
+        "iconName": "users",
+        "title": "Great Work\nEnvironment"
+      },
+      {
+        "iconName": "target",
+        "title": "Growth & Career\nOpportunities"
+      },
+      {
+        "iconName": "circle-dollar-sign",
+        "title": "Competitive\nSalary"
+      },
+      {
+        "iconName": "user",
+        "title": "Training & Skill\nDevelopment"
+      }
+    ],
+    "openingsTitle": "Current Openings",
+    "openingsDescription": "Find the right opportunity and grow your career with us.",
+    "jobs": [
+      {
+        "title": "Housekeeping Staff",
+        "location": "Las Vegas, NV",
+        "type": "Full Time",
+        "iconName": "map",
+        "slug": "housekeeping-staff",
+        "description": "We are seeking a dedicated and detail-oriented individual to join our team. You will be responsible for maintaining a high standard of cleanliness and hygiene in assigned areas. The ideal candidate will have prior experience in a similar role, strong attention to detail, and a commitment to providing excellent service. Join us and be part of a dynamic team dedicated to maintaining a safe, clean, and welcoming environment for everyone.",
+        "requirements": [
+          "Proven experience in a similar role",
+          "Knowledge of cleaning chemicals and supplies",
+          "Familiarity with Material Safety Data Sheets",
+          "Integrity and ability to work independently"
+        ],
+        "benefits": [
+          "Competitive salary and performance bonuses",
+          "Comprehensive health insurance",
+          "Paid time off and sick leave",
+          "Opportunities for professional growth and training"
+        ]
+      },
+      {
+        "title": "Cleaning Supervisor",
+        "location": "Las Vegas, NV",
+        "type": "Full Time",
+        "iconName": "user-cog",
+        "slug": "cleaning-supervisor",
+        "description": "We are seeking a dedicated and detail-oriented individual to join our team. You will be responsible for maintaining a high standard of cleanliness and hygiene in assigned areas. The ideal candidate will have prior experience in a similar role, strong attention to detail, and a commitment to providing excellent service. Join us and be part of a dynamic team dedicated to maintaining a safe, clean, and welcoming environment for everyone.",
+        "requirements": [
+          "Proven experience in a similar role",
+          "Knowledge of cleaning chemicals and supplies",
+          "Familiarity with Material Safety Data Sheets",
+          "Integrity and ability to work independently"
+        ],
+        "benefits": [
+          "Competitive salary and performance bonuses",
+          "Comprehensive health insurance",
+          "Paid time off and sick leave",
+          "Opportunities for professional growth and training"
+        ]
+      },
+      {
+        "title": "Office Cleaner",
+        "location": "Las Vegas, NV",
+        "type": "Part Time",
+        "iconName": "user-check",
+        "slug": "office-cleaner",
+        "description": "We are seeking a dedicated and detail-oriented individual to join our team. You will be responsible for maintaining a high standard of cleanliness and hygiene in assigned areas. The ideal candidate will have prior experience in a similar role, strong attention to detail, and a commitment to providing excellent service. Join us and be part of a dynamic team dedicated to maintaining a safe, clean, and welcoming environment for everyone.",
+        "requirements": [
+          "Proven experience in a similar role",
+          "Knowledge of cleaning chemicals and supplies",
+          "Familiarity with Material Safety Data Sheets",
+          "Integrity and ability to work independently"
+        ],
+        "benefits": [
+          "Competitive salary and performance bonuses",
+          "Comprehensive health insurance",
+          "Paid time off and sick leave",
+          "Opportunities for professional growth and training"
+        ]
+      },
+      {
+        "title": "Floor Technician",
+        "location": "Las Vegas, NV",
+        "type": "Full Time",
+        "iconName": "settings",
+        "slug": "floor-technician",
+        "description": "We are seeking a dedicated and detail-oriented individual to join our team. You will be responsible for maintaining a high standard of cleanliness and hygiene in assigned areas. The ideal candidate will have prior experience in a similar role, strong attention to detail, and a commitment to providing excellent service. Join us and be part of a dynamic team dedicated to maintaining a safe, clean, and welcoming environment for everyone.",
+        "requirements": [
+          "Proven experience in a similar role",
+          "Knowledge of cleaning chemicals and supplies",
+          "Familiarity with Material Safety Data Sheets",
+          "Integrity and ability to work independently"
+        ],
+        "benefits": [
+          "Competitive salary and performance bonuses",
+          "Comprehensive health insurance",
+          "Paid time off and sick leave",
+          "Opportunities for professional growth and training"
+        ]
+      },
+      {
+        "title": "Customer Service Executive",
+        "location": "Las Vegas, NV",
+        "type": "Full Time",
+        "iconName": "headset",
+        "slug": "customer-service-executive",
+        "description": "We are seeking a dedicated and detail-oriented individual to join our team. You will be responsible for maintaining a high standard of cleanliness and hygiene in assigned areas. The ideal candidate will have prior experience in a similar role, strong attention to detail, and a commitment to providing excellent service. Join us and be part of a dynamic team dedicated to maintaining a safe, clean, and welcoming environment for everyone.",
+        "requirements": [
+          "Proven experience in a similar role",
+          "Knowledge of cleaning chemicals and supplies",
+          "Familiarity with Material Safety Data Sheets",
+          "Integrity and ability to work independently"
+        ],
+        "benefits": [
+          "Competitive salary and performance bonuses",
+          "Comprehensive health insurance",
+          "Paid time off and sick leave",
+          "Opportunities for professional growth and training"
+        ]
+      }
+    ],
+    "viewAllText": "View All Openings",
+    "formTitle": "Apply for a Position",
+    "formDescription": "Fill out the form below and our HR team will get back to you.",
+    "whyWorkTitle": "Why Work With Us?",
+    "whyWorkItems": [
+      {
+        "iconName": "users",
+        "title": "Supportive Team",
+        "desc": "Join a family of passionate professionals who help each other thrive.",
+        "span": "lg:col-span-4"
+      },
+      {
+        "iconName": "alarm-clock",
+        "title": "Work-Life Balance",
+        "desc": "Flexible schedules designed to keep you refreshed and energized.",
+        "span": "lg:col-span-4"
+      },
+      {
+        "iconName": "shield-check",
+        "title": "Safe & Healthy",
+        "desc": "We prioritize your physical and mental well-being above all else.",
+        "span": "lg:col-span-4"
+      },
+      {
+        "iconName": "award",
+        "title": "Recognition & Rewards",
+        "desc": "Your hard work never goes unnoticed. Enjoy competitive bonuses and regular milestone celebrations.",
+        "span": "lg:col-span-6"
+      },
+      {
+        "iconName": "heart-handshake",
+        "title": "Make a Positive Impact",
+        "desc": "Be part of a company that gives back to the community and champions sustainable practices.",
+        "span": "lg:col-span-6"
+      }
+    ]
+  },
+  "industries": {
+    "subtitle": "Industries We Serve",
+    "title": "Clean Solutions for Every Industry",
+    "description": "We provide professional cleaning services tailored to the unique needs of different industries. Our expertise ensures a cleaner, safer and healthier environment.",
+    "items": [
+      {
+        "id": 1,
+        "title": "Commercial Offices",
+        "description": "We keep offices clean, organized, and productive for your team and clients.",
+        "iconName": "building-2"
+      },
+      {
+        "id": 2,
+        "title": "Industrial Facilities",
+        "description": "From factories to warehouses, we handle heavy-duty cleaning with safety and precision.",
+        "iconName": "factory"
+      },
+      {
+        "id": 3,
+        "title": "Healthcare Facilities",
+        "description": "We follow strict hygiene standards to ensure a safe and healthy environment.",
+        "iconName": "plus-circle"
+      },
+      {
+        "id": 4,
+        "title": "Educational Institutions",
+        "description": "We maintain clean and hygienic schools, colleges, and universities for better learning.",
+        "iconName": "graduation-cap"
+      },
+      {
+        "id": 5,
+        "title": "Retail & Shopping Centers",
+        "description": "We create clean, welcoming spaces that leave a lasting impression on your customers.",
+        "iconName": "shopping-cart"
+      },
+      {
+        "id": 6,
+        "title": "Hotels & Hospitality",
+        "description": "We deliver exceptional cleanliness to enhance guest comfort and satisfaction.",
+        "iconName": "building"
+      }
+    ]
+  },
+  "news": {
+    "subtitle": "News",
+    "title": "Our Latest News",
+    "items": [
+      {
+        "title": "How To Clean And Spread Disinfect Home & Office",
+        "date": "20 Mar 2024",
+        "image": "/news/1.jpg",
+        "link": "/blog/detail"
+      },
+      {
+        "title": "Superior Clean Through Our Trained Cleaning Staff",
+        "date": "21 Mar 2024",
+        "image": "/news/2.jpg",
+        "link": "/blog/detail"
+      },
+      {
+        "title": "Corona Virus Infection Prevention Everywhere",
+        "date": "22 Mar 2024",
+        "image": "/news/3.jpg",
+        "link": "/blog/detail"
+      },
+      {
+        "title": "How To Clean And Spread Disinfect Home & Office",
+        "date": "20 Mar 2024",
+        "image": "/news/1.jpg",
+        "link": "/blog/detail"
+      },
+      {
+        "title": "Superior Clean Through Our Trained Cleaning Staff",
+        "date": "21 Mar 2024",
+        "image": "/news/2.jpg",
+        "link": "/blog/detail"
+      },
+      {
+        "title": "Corona Virus Infection Prevention Everywhere",
+        "date": "22 Mar 2024",
+        "image": "/news/3.jpg",
+        "link": "/blog/detail"
+      }
+    ]
+  },
+  "partners": {
+    "subtitle": "Trusted By",
+    "title": "Leading Brands & Partners",
+    "description": "We are proud to be trusted by innovative companies and organizations worldwide.",
+    "items": [
+      {
+        "name": "GreenLeaf",
+        "category": "NATURE CARE",
+        "iconName": "leaf",
+        "color": "#22C55E"
+      },
+      {
+        "name": "Homey",
+        "category": "REAL ESTATE",
+        "iconName": "home",
+        "color": "#3B82F6"
+      },
+      {
+        "name": "OfficeHub",
+        "category": "COWORKING",
+        "iconName": "building-2",
+        "color": "#8B5CF6"
+      },
+      {
+        "name": "Sparkle",
+        "category": "CLEANING",
+        "iconName": "sparkles",
+        "color": "#F97316"
+      },
+      {
+        "name": "UrbanSpace",
+        "category": "LIVING",
+        "iconName": "building",
+        "color": "#6366F1"
+      },
+      {
+        "name": "BuildCon",
+        "category": "CONSTRUCTION",
+        "iconName": "bar-chart-3",
+        "color": "#0EA5E9"
+      }
+    ]
+  },
+  "pricing": {
+    "subtitle": "Our Pricing",
+    "title": "Simple Plan For Everyone",
+    "plans": [
+      {
+        "name": "Basic Plan",
+        "description": "Perfect for Residential Services",
+        "price": "$80",
+        "features": [
+          {
+            "text": "Fully Profetional Cleaner",
+            "included": true
+          },
+          {
+            "text": "Living Room Cleaning",
+            "included": true
+          },
+          {
+            "text": "Bed Room Cleaning",
+            "included": true
+          },
+          {
+            "text": "Bathroom Cleaning",
+            "included": true
+          },
+          {
+            "text": "Windows & Door Cleaning",
+            "included": false
+          },
+          {
+            "text": "Roof Cleaning",
+            "included": false
+          },
+          {
+            "text": "Kitchen Cleaning",
+            "included": false
+          }
+        ]
+      },
+      {
+        "name": "Smart Plan",
+        "description": "Perfect for Large & Small Company",
+        "price": "$150",
+        "features": [
+          {
+            "text": "Fully Profetional Cleaner",
+            "included": true
+          },
+          {
+            "text": "Living Room Cleaning",
+            "included": true
+          },
+          {
+            "text": "Bed Room Cleaning",
+            "included": true
+          },
+          {
+            "text": "Bathroom Cleaning",
+            "included": true
+          },
+          {
+            "text": "Windows & Door Cleaning",
+            "included": true
+          },
+          {
+            "text": "Roof Cleaning",
+            "included": true
+          },
+          {
+            "text": "Kitchen Cleaning",
+            "included": false
+          }
+        ]
+      },
+      {
+        "name": "Silver Plan",
+        "description": "Perfect for Large & Small Industrial",
+        "price": "$250",
+        "features": [
+          {
+            "text": "Fully Profetional Cleaner",
+            "included": true
+          },
+          {
+            "text": "Living Room Cleaning",
+            "included": true
+          },
+          {
+            "text": "Bed Room Cleaning",
+            "included": true
+          },
+          {
+            "text": "Bathroom Cleaning",
+            "included": true
+          },
+          {
+            "text": "Windows & Door Cleaning",
+            "included": true
+          },
+          {
+            "text": "Roof Cleaning",
+            "included": true
+          },
+          {
+            "text": "Kitchen Cleaning",
+            "included": true
+          }
+        ]
+      }
+    ]
+  },
+  "project": {
+    "subtitle": "Recent Projects",
+    "title": "Let's See Our Recent Project Case",
+    "projects": [
+      {
+        "title": "Office Cleaning",
+        "category": "Office",
+        "image": "/services/service-1.png"
+      },
+      {
+        "title": "Sanitizing Home",
+        "category": "Home",
+        "image": "/services/service-2.png"
+      },
+      {
+        "title": "Office Cleaning",
+        "category": "Office",
+        "image": "/services/service-3.png"
+      },
+      {
+        "title": "Kitchen Cleaning",
+        "category": "Kitchen",
+        "image": "/services/service-4.png"
+      },
+      {
+        "title": "Window Cleaning",
+        "category": "Commercial",
+        "image": "/services/service-1.png"
+      }
+    ]
+  },
+  "stat": {
+    "stats": [
+      {
+        "iconName": "users",
+        "value": "20+",
+        "title": "Qualified Workers"
+      },
+      {
+        "iconName": "thumbs-up",
+        "value": "4.8",
+        "title": "Our Average Rating"
+      },
+      {
+        "iconName": "clipboard-check",
+        "value": "500+",
+        "title": "Projects Completed"
+      },
+      {
+        "iconName": "award",
+        "value": "5+",
+        "title": "Years on the Market"
+      }
+    ]
+  },
+  "team": {
+    "subtitle": "Our Team",
+    "title": "Our Expert Team Member",
+    "members": [
+      {
+        "name": "Jack Farnes",
+        "role": "Head of Cleaner",
+        "image": "/team/1.jpg"
+      },
+      {
+        "name": "Farnej Dev",
+        "role": "Cleaner",
+        "image": "/team/2.jpg"
+      },
+      {
+        "name": "Jack Moris",
+        "role": "Assistant",
+        "image": "/team/3.jpg"
+      },
+      {
+        "name": "Emily Stone",
+        "role": "Housekeeping Expert",
+        "image": "/team/4.jpg"
+      },
+      {
+        "name": "Jack Farnes",
+        "role": "Head of Cleaner",
+        "image": "/team/1.jpg"
+      },
+      {
+        "name": "Farnej Dev",
+        "role": "Cleaner",
+        "image": "/team/2.jpg"
+      },
+      {
+        "name": "Jack Moris",
+        "role": "Assistant",
+        "image": "/team/3.jpg"
+      },
+      {
+        "name": "Emily Stone",
+        "role": "Housekeeping Expert",
+        "image": "/team/4.jpg"
+      }
+    ]
+  },
+  "testimonialGrid": {
+    "subtitle": "Testimonials",
+    "title": "What Our Clients Says",
+    "testimonials": [
+      {
+        "name": "Briten Stark",
+        "role": "Founder of Drove",
+        "content": "Aenean sollicitudin lorem bibendum auctor nisi elit consequat ipsum nec sagittis sem nibh id elit duis sedo odio sit amet nibh vulputate cursus a sit amet mauris morbi accumsan ipsum and many velit."
+      },
+      {
+        "name": "Johan Albas",
+        "role": "Sales Manager",
+        "content": "Aenean sollicitudin lorem bibendum auctor nisi elit consequat ipsum nec sagittis sem nibh id elit duis sedo odio sit amet nibh vulputate cursus a sit amet mauris morbi accumsan ipsum and many velit."
+      },
+      {
+        "name": "Jems Barlin",
+        "role": "Director",
+        "content": "Aenean sollicitudin lorem bibendum auctor nisi elit consequat ipsum nec sagittis sem nibh id elit duis sedo odio sit amet nibh vulputate cursus a sit amet mauris morbi accumsan ipsum and many velit."
+      },
+      {
+        "name": "Julian Nehar",
+        "role": "Founder of Drove",
+        "content": "Aenean sollicitudin lorem bibendum auctor nisi elit consequat ipsum nec sagittis sem nibh id elit duis sedo odio sit amet nibh vulputate cursus a sit amet mauris morbi accumsan ipsum and many velit."
+      },
+      {
+        "name": "Bril Hanc",
+        "role": "Sales Manager",
+        "content": "Aenean sollicitudin lorem bibendum auctor nisi elit consequat ipsum nec sagittis sem nibh id elit duis sedo odio sit amet nibh vulputate cursus a sit amet mauris morbi accumsan ipsum and many velit."
+      },
+      {
+        "name": "ANJ Carlos",
+        "role": "Director",
+        "content": "Aenean sollicitudin lorem bibendum auctor nisi elit consequat ipsum nec sagittis sem nibh id elit duis sedo odio sit amet nibh vulputate cursus a sit amet mauris morbi accumsan ipsum and many velit."
+      }
+    ]
+  },
+  "workProcess": {
+    "subtitle": "Work Process",
+    "title": "Our Simple 5 Step Cleaning Process",
+    "description": "We follow a simple and effective process to make your home clean, fresh and comfortable.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "BOOK & SCHEDULE",
+        "desc": "Choose your preferred date & time and book our cleaning service in just a few clicks.",
+        "mainIcon": "headset",
+        "subIcon": "message-square-text"
+      },
+      {
+        "num": "02",
+        "title": "ASSESSMENT",
+        "desc": "Our team assesses your home and understands your cleaning needs.",
+        "mainIcon": "clipboard-list",
+        "subIcon": "home"
+      },
+      {
+        "num": "03",
+        "title": "CLEANING BEGINS",
+        "desc": "We use safe products and proven techniques to start the deep cleaning process.",
+        "mainIcon": "spray-can",
+        "subIcon": "sparkles"
+      },
+      {
+        "num": "04",
+        "title": "QUALITY CHECK",
+        "desc": "Our supervisor inspects every area to ensure top-quality cleaning standards.",
+        "mainIcon": "clipboard-list",
+        "subIcon": "search"
+      },
+      {
+        "num": "05",
+        "title": "SPOTLESS HOME",
+        "desc": "We leave your home spotless, fresh, and ready for you to relax and enjoy.",
+        "mainIcon": "home",
+        "subIcon": "sparkles"
+      }
+    ]
+  },
+  "sitemap": {
+    "subtitle": "FIND YOUR WAY",
+    "title": "Website",
+    "description": "Explore all pages of CleanPro Cleaning Services website to find the information you need quickly and easily.",
+    "sitemapTree": [
+      {
+        "title": "About Us",
+        "subtitle": "Know more about us",
+        "iconName": "users",
+        "href": "/about",
+        "items": [
+          {
+            "label": "Our Story",
+            "href": "/about"
+          },
+          {
+            "label": "Our Mission",
+            "href": "/about"
+          },
+          {
+            "label": "Our Team",
+            "href": "/team"
+          },
+          {
+            "label": "Certifications",
+            "href": "/awards"
+          },
+          {
+            "label": "Careers",
+            "href": "/career"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "subtitle": "What we offer",
+        "iconName": "sparkles",
+        "href": "/services",
+        "items": [
+          {
+            "label": "House Cleaning",
+            "href": "/services"
+          },
+          {
+            "label": "Office Cleaning",
+            "href": "/services"
+          },
+          {
+            "label": "Deep Cleaning",
+            "href": "/services"
+          },
+          {
+            "label": "Carpet Cleaning",
+            "href": "/services"
+          },
+          {
+            "label": "Sanitization",
+            "href": "/services"
+          },
+          {
+            "label": "Pest Control",
+            "href": "/services"
+          },
+          {
+            "label": "Window Cleaning",
+            "href": "/services"
+          }
+        ]
+      },
+      {
+        "title": "Projects",
+        "subtitle": "Our completed work",
+        "iconName": "briefcase",
+        "href": "/projects",
+        "items": [
+          {
+            "label": "Residential Projects",
+            "href": "/projects"
+          },
+          {
+            "label": "Commercial Projects",
+            "href": "/projects"
+          },
+          {
+            "label": "Gallery",
+            "href": "/projects"
+          },
+          {
+            "label": "Case Studies",
+            "href": "/projects"
+          }
+        ]
+      },
+      {
+        "title": "Pages",
+        "subtitle": "Important pages",
+        "iconName": "file-text",
+        "href": "#",
+        "items": [
+          {
+            "label": "Testimonials",
+            "href": "/testimonials"
+          },
+          {
+            "label": "FAQs",
+            "href": "/faqs"
+          },
+          {
+            "label": "Pricing",
+            "href": "/pricing"
+          },
+          {
+            "label": "Sitemap",
+            "href": "/sitemap"
+          },
+          {
+            "label": "Terms & Conditions",
+            "href": "/terms-conditions"
+          },
+          {
+            "label": "Privacy Policy",
+            "href": "/privacy-policy"
+          },
+          {
+            "label": "Request a Quote",
+            "href": "/quotes"
+          }
+        ]
+      },
+      {
+        "title": "Blog",
+        "subtitle": "Latest updates",
+        "iconName": "edit",
+        "href": "/blog",
+        "items": [
+          {
+            "label": "Cleaning Tips",
+            "href": "/blog"
+          },
+          {
+            "label": "Industry News",
+            "href": "/blog"
+          },
+          {
+            "label": "Our Blog",
+            "href": "/blog"
+          }
+        ]
+      },
+      {
+        "title": "Contact Us",
+        "subtitle": "Get in touch",
+        "iconName": "phone-call",
+        "href": "/contact",
+        "items": [
+          {
+            "label": "Contact Form",
+            "href": "/contact"
+          },
+          {
+            "label": "Our Location",
+            "href": "/contact"
+          },
+          {
+            "label": "Support",
+            "href": "/contact"
+          }
+        ]
+      }
+    ]
+  },
+  "quotes": {
+    "subtitle": "Need Any Help or Support",
+    "title": "Contact Us For Better Help & Services",
+    "placeholders": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "select": "Enter Name of Company / House",
+      "message": "Write Message"
+    },
+    "options": [
+      {
+        "value": "company",
+        "label": "Company"
+      },
+      {
+        "value": "house",
+        "label": "House"
+      },
+      {
+        "value": "other",
+        "label": "Other"
+      }
+    ],
+    "buttonText": "Send Message"
+  },
+  "contact": {
+    "locationSubtitle": "Contact Information",
+    "locationTitle": "We Want To Share Our Location To Find Us Easily",
+    "locations": [
+      {
+        "iconName": "map-pinned",
+        "title": "Office Address",
+        "lines": [
+          "28 Benin, south of Niger #5 San Francisco USA"
+        ]
+      },
+      {
+        "iconName": "phone-call",
+        "title": "Phone Number",
+        "lines": [
+          "+00154 789 8765",
+          "+00154 789 9241"
+        ]
+      },
+      {
+        "iconName": "mail",
+        "title": "Mail Address",
+        "lines": [
+          "admin@gmail.com",
+          "admin@gmail.com"
+        ]
+      }
+    ],
+    "formSubtitle": "Contact Form",
+    "formTitle": "Cool Project? Get in Touch! Will Contact You Soon"
+  },
+  "cookies": {
+    "lastUpdated": "This Cookies Policy was last updated on September 1, 2024.",
+    "sections": [
+      {
+        "title": "1. What Data We Get",
+        "paragraphs": [
+          "We collect certain data from you directly like information you enter yourself data about your participation in courses and data from third-party platforms you connect with. We also collect some data automatically like information about your device and what parts of our Services you interact with or spend time using."
+        ]
+      },
+      {
+        "title": "2. Data You Provide to Us",
+        "paragraphs": [
+          "We may collect different data from or about you depending on how you use the Services. Below are some examples to help you better understand the data we collect."
+        ]
+      },
+      {
+        "title": "3. How We Get Data About You",
+        "paragraphs": [
+          "We use tools like cookies, web beacons, analytics services, and advertising providers to gather the data listed above. Some of these tools offer you the ability to opt out of data collection."
+        ]
+      },
+      {
+        "title": "4. What We Use Your Data For",
+        "list": {
+          "isOrdered": true,
+          "items": [
+            "Responding to your questions and concerns;",
+            "Sending you administrative messages and information, including messages from instructors and teaching assistants, notifications about changes to our Service, and updates to our agreements;",
+            "Sending push notifications to your wireless device to provide updates and other relevant messages (which you can manage from the \"options\" or \"settings\" page of the mobile app);"
+          ]
+        }
+      },
+      {
+        "title": "5. Your Choices About the Use of Your Data",
+        "paragraphs": [
+          "You can choose not to provide certain data to us, but you may not be able to use certain features of the Services."
+        ],
+        "list": {
+          "isOrdered": false,
+          "items": [
+            "To stop receiving promotional communications from us, you can opt out by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account. Note that regardless of your email preference settings, we will send you transactional and relationship messages regarding the Services, including administrative confirmations, order confirmations, important updates about the Services, and notices about our policies.",
+            "The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to control whether location or other data is collected and shared. You can manage Adobe's LSOs through their Website Storage Settings panel.",
+            "To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages for the Network Advertising Initiative and Digital Advertising Alliance, or if you're located in the European Union, visit the Your Online Choices site. To opt out of Google's display advertising or customize Google Display Network ads, visit the Google Ads Settings page. To opt out of Taboola's targeted ads, see the Opt-out Link in their Cookie Policy.",
+            "To update data you provide directly, log into your account and update your account at any time."
+          ]
+        }
+      },
+      {
+        "title": "6. Our Policy Concerning Children",
+        "paragraphs": [
+          "We recognize the privacy interests of children and encourage parents and guardians to take an active role in their children's online activities and interests. Children under 13 (or under 16 in the European Economic Area) should not use the Services. If we learn that we've collected personal data from a child under those ages."
+        ]
+      }
+    ]
+  },
+  "disclaimer": {
+    "lastUpdated": "This Disclaimer was last updated on September 1, 2024.",
+    "sections": [
+      {
+        "title": "1. What Data We Get",
+        "paragraphs": [
+          "We collect certain data from you directly like information you enter yourself data about your participation in courses and data from third-party platforms you connect with. We also collect some data automatically like information about your device and what parts of our Services you interact with or spend time using."
+        ]
+      },
+      {
+        "title": "2. Data You Provide to Us",
+        "paragraphs": [
+          "We may collect different data from or about you depending on how you use the Services. Below are some examples to help you better understand the data we collect."
+        ]
+      },
+      {
+        "title": "3. How We Get Data About You",
+        "paragraphs": [
+          "We use tools like cookies, web beacons, analytics services, and advertising providers to gather the data listed above. Some of these tools offer you the ability to opt out of data collection."
+        ]
+      },
+      {
+        "title": "4. What We Use Your Data For",
+        "list": {
+          "isOrdered": true,
+          "items": [
+            "Responding to your questions and concerns;",
+            "Sending you administrative messages and information, including messages from instructors and teaching assistants, notifications about changes to our Service, and updates to our agreements;",
+            "Sending push notifications to your wireless device to provide updates and other relevant messages (which you can manage from the \"options\" or \"settings\" page of the mobile app);"
+          ]
+        }
+      },
+      {
+        "title": "5. Your Choices About the Use of Your Data",
+        "paragraphs": [
+          "You can choose not to provide certain data to us, but you may not be able to use certain features of the Services."
+        ],
+        "list": {
+          "isOrdered": false,
+          "items": [
+            "To stop receiving promotional communications from us, you can opt out by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account. Note that regardless of your email preference settings, we will send you transactional and relationship messages regarding the Services, including administrative confirmations, order confirmations, important updates about the Services, and notices about our policies.",
+            "The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to control whether location or other data is collected and shared. You can manage Adobe's LSOs through their Website Storage Settings panel.",
+            "To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages for the Network Advertising Initiative and Digital Advertising Alliance, or if you're located in the European Union, visit the Your Online Choices site. To opt out of Google's display advertising or customize Google Display Network ads, visit the Google Ads Settings page. To opt out of Taboola's targeted ads, see the Opt-out Link in their Cookie Policy.",
+            "To update data you provide directly, log into your account and update your account at any time."
+          ]
+        }
+      },
+      {
+        "title": "6. Our Policy Concerning Children",
+        "paragraphs": [
+          "We recognize the privacy interests of children and encourage parents and guardians to take an active role in their children's online activities and interests. Children under 13 (or under 16 in the European Economic Area) should not use the Services. If we learn that we've collected personal data from a child under those ages."
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "lastUpdated": "This Privacy Policy was last updated on September 1, 2024.",
+    "sections": [
+      {
+        "title": "1. What Data We Get",
+        "paragraphs": [
+          "We collect certain data from you directly like information you enter yourself data about your participation in courses and data from third-party platforms you connect with. We also collect some data automatically like information about your device and what parts of our Services you interact with or spend time using."
+        ]
+      },
+      {
+        "title": "2. Data You Provide to Us",
+        "paragraphs": [
+          "We may collect different data from or about you depending on how you use the Services. Below are some examples to help you better understand the data we collect."
+        ]
+      },
+      {
+        "title": "3. How We Get Data About You",
+        "paragraphs": [
+          "We use tools like cookies, web beacons, analytics services, and advertising providers to gather the data listed above. Some of these tools offer you the ability to opt out of data collection."
+        ]
+      },
+      {
+        "title": "4. What We Use Your Data For",
+        "list": {
+          "isOrdered": true,
+          "items": [
+            "Responding to your questions and concerns;",
+            "Sending you administrative messages and information, including messages from instructors and teaching assistants, notifications about changes to our Service, and updates to our agreements;",
+            "Sending push notifications to your wireless device to provide updates and other relevant messages (which you can manage from the \"options\" or \"settings\" page of the mobile app);"
+          ]
+        }
+      },
+      {
+        "title": "5. Your Choices About the Use of Your Data",
+        "paragraphs": [
+          "You can choose not to provide certain data to us, but you may not be able to use certain features of the Services."
+        ],
+        "list": {
+          "isOrdered": false,
+          "items": [
+            "To stop receiving promotional communications from us, you can opt out by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account. Note that regardless of your email preference settings, we will send you transactional and relationship messages regarding the Services, including administrative confirmations, order confirmations, important updates about the Services, and notices about our policies.",
+            "The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to control whether location or other data is collected and shared. You can manage Adobe's LSOs through their Website Storage Settings panel.",
+            "To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages for the Network Advertising Initiative and Digital Advertising Alliance, or if you're located in the European Union, visit the Your Online Choices site. To opt out of Google's display advertising or customize Google Display Network ads, visit the Google Ads Settings page. To opt out of Taboola's targeted ads, see the Opt-out Link in their Cookie Policy.",
+            "To update data you provide directly, log into your account and update your account at any time."
+          ]
+        }
+      },
+      {
+        "title": "6. Our Policy Concerning Children",
+        "paragraphs": [
+          "We recognize the privacy interests of children and encourage parents and guardians to take an active role in their children's online activities and interests. Children under 13 (or under 16 in the European Economic Area) should not use the Services. If we learn that we've collected personal data from a child under those ages."
+        ]
+      }
+    ]
+  },
+  "refund": {
+    "lastUpdated": "This Refund Policy was last updated on September 1, 2024.",
+    "sections": [
+      {
+        "title": "1. What Data We Get",
+        "paragraphs": [
+          "We collect certain data from you directly like information you enter yourself data about your participation in courses and data from third-party platforms you connect with. We also collect some data automatically like information about your device and what parts of our Services you interact with or spend time using."
+        ]
+      },
+      {
+        "title": "2. Data You Provide to Us",
+        "paragraphs": [
+          "We may collect different data from or about you depending on how you use the Services. Below are some examples to help you better understand the data we collect."
+        ]
+      },
+      {
+        "title": "3. How We Get Data About You",
+        "paragraphs": [
+          "We use tools like cookies, web beacons, analytics services, and advertising providers to gather the data listed above. Some of these tools offer you the ability to opt out of data collection."
+        ]
+      },
+      {
+        "title": "4. What We Use Your Data For",
+        "list": {
+          "isOrdered": true,
+          "items": [
+            "Responding to your questions and concerns;",
+            "Sending you administrative messages and information, including messages from instructors and teaching assistants, notifications about changes to our Service, and updates to our agreements;",
+            "Sending push notifications to your wireless device to provide updates and other relevant messages (which you can manage from the \"options\" or \"settings\" page of the mobile app);"
+          ]
+        }
+      },
+      {
+        "title": "5. Your Choices About the Use of Your Data",
+        "paragraphs": [
+          "You can choose not to provide certain data to us, but you may not be able to use certain features of the Services."
+        ],
+        "list": {
+          "isOrdered": false,
+          "items": [
+            "To stop receiving promotional communications from us, you can opt out by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account. Note that regardless of your email preference settings, we will send you transactional and relationship messages regarding the Services, including administrative confirmations, order confirmations, important updates about the Services, and notices about our policies.",
+            "The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to control whether location or other data is collected and shared. You can manage Adobe's LSOs through their Website Storage Settings panel.",
+            "To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages for the Network Advertising Initiative and Digital Advertising Alliance, or if you're located in the European Union, visit the Your Online Choices site. To opt out of Google's display advertising or customize Google Display Network ads, visit the Google Ads Settings page. To opt out of Taboola's targeted ads, see the Opt-out Link in their Cookie Policy.",
+            "To update data you provide directly, log into your account and update your account at any time."
+          ]
+        }
+      },
+      {
+        "title": "6. Our Policy Concerning Children",
+        "paragraphs": [
+          "We recognize the privacy interests of children and encourage parents and guardians to take an active role in their children's online activities and interests. Children under 13 (or under 16 in the European Economic Area) should not use the Services. If we learn that we've collected personal data from a child under those ages."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "lastUpdated": "This Terms & Conditions was last updated on September 1, 2024.",
+    "sections": [
+      {
+        "title": "1. What Data We Get",
+        "paragraphs": [
+          "We collect certain data from you directly like information you enter yourself data about your participation in courses and data from third-party platforms you connect with. We also collect some data automatically like information about your device and what parts of our Services you interact with or spend time using."
+        ]
+      },
+      {
+        "title": "2. Data You Provide to Us",
+        "paragraphs": [
+          "We may collect different data from or about you depending on how you use the Services. Below are some examples to help you better understand the data we collect."
+        ]
+      },
+      {
+        "title": "3. How We Get Data About You",
+        "paragraphs": [
+          "We use tools like cookies, web beacons, analytics services, and advertising providers to gather the data listed above. Some of these tools offer you the ability to opt out of data collection."
+        ]
+      },
+      {
+        "title": "4. What We Use Your Data For",
+        "list": {
+          "isOrdered": true,
+          "items": [
+            "Responding to your questions and concerns;",
+            "Sending you administrative messages and information, including messages from instructors and teaching assistants, notifications about changes to our Service, and updates to our agreements;",
+            "Sending push notifications to your wireless device to provide updates and other relevant messages (which you can manage from the \"options\" or \"settings\" page of the mobile app);"
+          ]
+        }
+      },
+      {
+        "title": "5. Your Choices About the Use of Your Data",
+        "paragraphs": [
+          "You can choose not to provide certain data to us, but you may not be able to use certain features of the Services."
+        ],
+        "list": {
+          "isOrdered": false,
+          "items": [
+            "To stop receiving promotional communications from us, you can opt out by using the unsubscribe mechanism in the promotional communication you receive or by changing the email preferences in your account. Note that regardless of your email preference settings, we will send you transactional and relationship messages regarding the Services, including administrative confirmations, order confirmations, important updates about the Services, and notices about our policies.",
+            "The browser or device you use may allow you to control cookies and other types of local data storage. Your wireless device may also allow you to control whether location or other data is collected and shared. You can manage Adobe's LSOs through their Website Storage Settings panel.",
+            "To get information and control cookies used for tailored advertising from participating companies, see the consumer opt-out pages for the Network Advertising Initiative and Digital Advertising Alliance, or if you're located in the European Union, visit the Your Online Choices site. To opt out of Google's display advertising or customize Google Display Network ads, visit the Google Ads Settings page. To opt out of Taboola's targeted ads, see the Opt-out Link in their Cookie Policy.",
+            "To update data you provide directly, log into your account and update your account at any time."
+          ]
+        }
+      },
+      {
+        "title": "6. Our Policy Concerning Children",
+        "paragraphs": [
+          "We recognize the privacy interests of children and encourage parents and guardians to take an active role in their children's online activities and interests. Children under 13 (or under 16 in the European Economic Area) should not use the Services. If we learn that we've collected personal data from a child under those ages."
+        ]
+      }
+    ]
+  },
+  "header": {
+    "navLinks": [
+      {
+        "title": "Home",
+        "href": "/"
+      },
+      {
+        "title": "About Us",
+        "href": "/about",
+        "dropdown": true,
+        "subLinks": [
+          {
+            "title": "Pricing",
+            "href": "/pricing"
+          },
+          {
+            "title": "Testimonials",
+            "href": "/testimonials"
+          },
+          {
+            "title": "Faqs",
+            "href": "/faqs"
+          },
+          {
+            "title": "Awards",
+            "href": "/awards"
+          },
+          {
+            "title": "Our Team",
+            "href": "/team"
+          },
+          {
+            "title": "Career",
+            "href": "/career"
+          },
+          {
+            "title": "Enquiry",
+            "href": "/enquiry"
+          },
+          {
+            "title": "Industries We Serve",
+            "href": "/industries"
+          }
+        ]
+      },
+      {
+        "title": "Services",
+        "href": "/services"
+      },
+      {
+        "title": "Projects",
+        "href": "/projects"
+      },
+      {
+        "title": "Blog",
+        "href": "/blog"
+      },
+      {
+        "title": "Contact Us",
+        "href": "/contact"
+      }
+    ],
+    "phoneLabel": "Call Anytime",
+    "phoneNumber": "+1 (254) 567-8900",
+    "buttonText": "Get a Quote"
+  },
+  "footer": {
+    "description": "Lorem ipsum dolor sit amet, consec tetur elit eiusmod tempor incididunt labore dolore magna aliqua consec tetur adipis cing elite sed do labor.",
+    "social": {
+      "facebook": "https://www.facebook.com/",
+      "linkedin": "https://www.linkedin.com/",
+      "twitter": "https://twitter.com/",
+      "instagram": "https://www.instagram.com/"
+    },
+    "address": "2976 Sunrise Avenue, Las Vegas",
+    "email": "hello@anwa.com",
+    "phone": "+1-3454-5678-77",
+    "quickLinks": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Our Services",
+        "href": "/services"
+      },
+      {
+        "label": "Our Team",
+        "href": "/team"
+      },
+      {
+        "label": "Our Blog",
+        "href": "/blog"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "copyright": "Copyright ©2026. CleanPro All Rights Reserved By Cssfounder",
+    "footerLinks": [
+      {
+        "label": "Sitemap",
+        "href": "/sitemap"
+      },
+      {
+        "label": "Terms & Conditions",
+        "href": "/terms-conditions"
+      },
+      {
+        "label": "Privacy Policy",
+        "href": "/privacy-policy"
+      },
+      {
+        "label": "Disclaimer",
+        "href": "/disclaimer"
+      },
+      {
+        "label": "Refund Policy",
+        "href": "/refund-policy"
+      },
+      {
+        "label": "Cookies Policy",
+        "href": "/cookies-policy"
+      }
+    ]
+  },
+  "enquiry": {
+    "subtitle": "GET IN TOUCH",
+    "titleLine1": "Need Any Help Or",
+    "titleHighlight": "Enquiry?",
+    "description": "Have questions about our cleaning services or want to request a custom quote? We're here to help! Fill out the form below or reach us directly.",
+    "getInTouchTitle": "Get In Touch",
+    "getInTouchDescription": "Reach out to us through any of the following methods. We typically respond within 2-4 business hours.",
+    "contactMethods": [
+      {
+        "title": "Call Us",
+        "description": "<strong>+1 (254) 567-8900</strong>",
+        "iconName": "phone"
+      },
+      {
+        "title": "Email Us",
+        "description": "<a href='mailto:info@cleanpro.com' class='hover:text-[#1FA463] transition-colors'>info@cleanpro.com</a>",
+        "iconName": "mail"
+      },
+      {
+        "title": "Visit Us",
+        "description": "2976 Sunrise Avenue, Las Vegas",
+        "iconName": "map-pin"
+      },
+      {
+        "title": "Working Hours",
+        "description": "Mon - Fri: 8:00 AM - 6:00 PM<br/>Sat - Sun: 9:00 AM - 4:00 PM",
+        "iconName": "clock"
+      }
+    ],
+    "formTitle": "Send us a Message"
+  },
+  "sidebar": {
+    "searchTitle": "Search",
+    "searchPlaceholder": "Search In project",
+    "categoriesTitle": "Categories",
+    "categories": [
+      "House Cleaning",
+      "Disinfection Services",
+      "Floor Cleaning",
+      "Deep Cleaning",
+      "Kitchen Cleaning"
+    ],
+    "relatedPostTitle": "Related Post",
+    "relatedPosts": [
+      {
+        "title": "Disinfection Service",
+        "date": "30 August",
+        "image": "/services/service-1.png"
+      },
+      {
+        "title": "Window Cleaning",
+        "date": "1 July",
+        "image": "/services/service-2.png"
+      },
+      {
+        "title": "Flor Cleaning",
+        "date": "18 Dec",
+        "image": "/services/service-3.png"
+      }
+    ]
+  },
+  "teamDetail": {
+    "profile": {
+      "name": "Georgia Mishel",
+      "role": "Professional Cleaner",
+      "image": "/team/1.jpg",
+      "description": "Mauris et vivamus mus massa viverra dis litora aliquam maecenas penatibus praesent class conubia morbi dictum habitant est magnis cubilia a aliquet congue vestibulum suscipit. Cras malesuada id in nullam feugiat magnis elementum inceptos a mi.",
+      "phone": "+1 (800)-666-6520",
+      "location": "24/7 Casino street, England",
+      "email": "info@klean24.com",
+      "social": {
+        "facebook": "https://www.facebook.com/",
+        "twitter": "https://twitter.com/",
+        "pinterest": "https://www.pinterest.com/",
+        "linkedin": "https://www.linkedin.com/"
+      }
+    },
+    "skillsSection": {
+      "subtitle": "Our Work Excellence",
+      "title": "Find Standard Cleaning with Personal Touch",
+      "description": "Duis mattis sodales convallis ad laoreet aliquet nostra eleifend habitasse potenti hendrerit mi cras penatibus erat. Ac pulvinar integer semper ridiculus laoreet condimentum diam dis nec nulla curae inceptos morbi cras non quisque vulputate mi.",
+      "image": "/team/2.jpg",
+      "skills": [
+        {
+          "title": "Result Quality",
+          "percentage": 98
+        },
+        {
+          "title": "Happy Customer",
+          "percentage": 80
+        },
+        {
+          "title": "Support Centre",
+          "percentage": 98
+        }
+      ]
+    }
+  }
+}
